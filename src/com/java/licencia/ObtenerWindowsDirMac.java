@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
  * @author ivana
  *
  */
-public class WindowsDirMac {
+public class ObtenerWindowsDirMac {
 	
 	static String ObtenerDir(){
 		String v_dirMac = "";

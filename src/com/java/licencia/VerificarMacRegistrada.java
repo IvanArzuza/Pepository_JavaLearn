@@ -11,7 +11,7 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 
-public class VerificaMacRegistrada {
+public class VerificarMacRegistrada {
 	
 	static Boolean VerificaExcel(String P_dirMac){
 		Boolean v_macRegistrada = false;
